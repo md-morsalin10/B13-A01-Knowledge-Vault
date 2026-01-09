@@ -211,11 +211,11 @@ div .hero-button-2{
     display: flex;
     flex-direction: column;
     padding: 24px;
-    border: 1px solid #627382;
+    border: 1px solid #30B868;
     border-radius: 8px;
     gap: 24px;
     padding: 16px;
-    box-shadow: 0 6px 10px 0 #001931;
+    box-shadow: 0 6px 10px 0 #627382;
  }
  .card:hover{
     background-color: aquamarine;
@@ -410,5 +410,12 @@ div .hero-button-2{
     color: #FAFAFA;
     padding-top: 30px;
 
+}
+hr{
+    opacity: 0.2;
+    width: 1360px;
+    display: flex;
+    margin: 0 auto;
+    border: 1px solid #E5E7EB;
 }
     
