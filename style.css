@@ -305,3 +305,51 @@ div .hero-button-2{
     width: 20px;
     height: 20px;
 }
+
+#cta{
+    width: 1600px;
+    height: 506px;
+    display: flex;
+    margin: 0 auto;
+    font-family: Inter;
+}
+
+.container-cta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 1360px;
+    height: 384px;
+}
+
+.container-cta h2{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #001931;
+}
+.container-cta p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    margin-top: 16px;
+}
+.cta-btn{
+    width: 194px;
+    height: 52px;
+    align-items: center;
+    padding: 12px 16px 12px 16px;
+    border-radius: 4px;
+    box-shadow: 0px 10px 20px 0px #627382;
+    background: #30B868;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-top: 24px;
+    display: flex;
+    cursor: pointer;
+}
